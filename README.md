@@ -40,7 +40,7 @@ The ESP32 serves a responsive webpage with two buttons:
 ## 6. Demo Video
 Watch the project in action:  
 
-[![Watch the video](media/demo-thumbnail.jpg)](https://youtube.com/your_demo_video_link)
+[![Watch the video](media/demo-thumbnail.jpg)]([https://youtube.com/your_demo_video_link](https://youtube.com/shorts/Zg5O2ug4D8o?feature=share))
 
 ---
 
